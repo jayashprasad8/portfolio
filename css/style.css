@@ -535,7 +535,6 @@ section#about {
 
 .testimonial-content .testimonial-slide {
     display: flex;
-    align-items: center;
     flex-direction: column;
     background: var(--bg-color);
     border-radius: 2rem;
@@ -561,7 +560,6 @@ section#about {
 
 .testimonial-slide p {
     font-size: 1.4rem;
-    text-align: center;
 }
 
 .testimonial-box .swiper-button-next,
