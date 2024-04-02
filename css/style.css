@@ -570,7 +570,7 @@ section#about {
 
 .testimonial-slide a:hover {
     color: var(--bg-color); /* Change link hover color */
-
+}
 
 .testimonial-box .swiper-button-next,
 .testimonial-box .swiper-button-prev {
