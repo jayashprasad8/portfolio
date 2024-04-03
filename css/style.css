@@ -564,6 +564,15 @@ section#about {
     text-align: center;
 }
 
+.testimonial-content .testimonial-slide ul {
+    font-size: 1.6rem; /* Adjust the font size as needed */
+}
+
+.testimonial-slide {
+    text-align: left; /* Align the content to the left */
+}
+
+
 .testimonial-slide a {
     color: var(--main-color); /* Change link color */
 }
