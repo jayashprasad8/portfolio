@@ -559,13 +559,17 @@ section#about {
     margin: 2rem 0;
 }
 
+.testimonial-slide h4 {
+    font-size: 1.6rem;
+}
+
 .testimonial-slide p {
     font-size: 1.4rem;
     text-align: center;
 }
 
 .testimonial-content .testimonial-slide ul {
-    font-size: 1.6rem; /* Adjust the font size as needed */
+    font-size: 1.4rem; /* Adjust the font size as needed */
 }
 
 .testimonial-slide {
