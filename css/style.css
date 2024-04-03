@@ -565,15 +565,11 @@ section#about {
 
 .testimonial-slide p {
     font-size: 1.4rem;
-    text-align: center;
+    text-align: left;
 }
 
 .testimonial-content .testimonial-slide ul {
     font-size: 1.4rem; /* Adjust the font size as needed */
-}
-
-.testimonial-slide {
-    text-align: left; /* Align the content to the left */
 }
 
 
