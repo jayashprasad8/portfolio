@@ -442,6 +442,10 @@ section#about {
     margin-bottom: 7rem;
 }
 
+.portfolio-container{
+    align-items: center;
+}
+
 .portfolio .portfolio-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -451,6 +455,7 @@ section#about {
 
 .portfolio-container .portfolio-box {
     position: relative;
+    align-items: center;
     display: flex;
     border-radius: 2rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, .1);
