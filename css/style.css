@@ -200,7 +200,7 @@ section {
 }
 
 .home-img img:hover {
-    transform: scale(1.05);    /* subtle hover effect */
+    transform: scale(1.05);   
 }
 
 .home {
